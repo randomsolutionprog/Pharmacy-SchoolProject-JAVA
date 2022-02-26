@@ -1,0 +1,4 @@
+1 10 Neuorobion 17.9 
+2 20 Panadol 4.2 
+3 20 Uphadyl_Syrup 12.50 
+4 34 Vasican 8 
